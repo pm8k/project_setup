@@ -8,7 +8,7 @@ Git:
 Virtual Environment
 Use the conda virtual environment
 1. conda search "^python$"
-2. conda create --n $ENVIRONMENT_NAME python=x.x
+2. conda create -n $ENVIRONMENT_NAME python=x.x
 3. source activate $ENVIRONMENT_NAME
 
 When ready to switch out
